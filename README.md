@@ -8,7 +8,7 @@ Instalado sobre EC2 (data-gp4)
 
 #### Ingresar a Jupyter
 
-```ssh -N -L "localhost:8884:10.1.103.91:8885" ubuntu@vpn-us.linkedstore.com & ```
+```ssh -N -L "localhost:8884:10.1.103.91:8888" ubuntu@vpn-us.linkedstore.com & ```
 
 ## Conectarse al servidor Jupyter via command line
 
