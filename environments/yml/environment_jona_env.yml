@@ -1,0 +1,8 @@
+name: jona_env
+dependencies:
+  - python=3.6.7
+  - ipykernel
+  - matplotlib
+  - pip
+  - pip:
+    - -r file:/home/jupyter-datascience-dev/environments/requirements/requirements_jona_env.txt
